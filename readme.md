@@ -27,11 +27,6 @@ This project aims to identify the best 11 players for the T20 World Cup through 
     cd T20-World-Cup-Cricket-Data-Analytics
     ```
 
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ### Usage
 1. Run the Jupyter notebooks in the `notebooks/` directory in the following order:
     - `data_scraping.ipynb`
@@ -47,7 +42,5 @@ This project aims to identify the best 11 players for the T20 World Cup through 
 - **Player Selection:** Analyzing key metrics like batting average, strike rate, and bowling performance.
 - **Data Visualization:** Interactive dashboards created in Power BI.
 
-## Contact
-For any queries or feedback, please reach out to me at [your-email@example.com](mailto:rahulchafle2002@gmail.com).
 
 
